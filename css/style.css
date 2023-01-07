@@ -200,7 +200,7 @@ z-index: 77;
 padding: 0 0 20px 0;
 font-size:36px;
 font-weight:600;
-font-famiily:'Lato';
+font-family:'Lato';
 }
 .line-title{
 width: 40px;
@@ -562,7 +562,7 @@ height: 60px;
 text-align: center;
 font-size: 36px;
 line-height: 53px;
-margin-bottom:20px;
+margin-bottom:40px;
 }
 .contact p a{
 color:#7a7a7a;
